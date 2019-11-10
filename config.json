@@ -1,0 +1,20 @@
+{
+	"commend": {
+		"friendly": 1,
+		"teaching": 1,
+		"leader": 1
+	},
+	"account": {
+		"username": "XXXXXXXXXXXXXXXXXXXXXXXXXX",
+		"password": "XXXXXXXXXXXXXXXXXXXXXXXXXX",
+		"sharedSecret": ""
+	},
+	"method": "LOGIN",
+	"target": "https://steamcommunity.com/id/gabelogannewell",
+	"serverID": "auto",
+	"matchID": "0",
+	"perChunk": 20,
+	"betweenChunks": 300000,
+	"cooldown": 28800000,
+	"steamWebAPIKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+}
